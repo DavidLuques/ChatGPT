@@ -1,0 +1,3 @@
+this is a Chat GPT integration using virtual enviroment to hide the api-key in windows.
+the engine is davinci 02  and it's a free version of ChatGPT for users ...
+I've also used pipenv to manage packages.
